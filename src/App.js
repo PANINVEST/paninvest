@@ -13,12 +13,12 @@ const App = () => {
   return (
     
     <div>
-
-      <Switch>
+       <NavBar />
+        {/* <Switch>
 
         <Route exact path='/'>
 
-         <NavBar />
+        
          <Home />
          <Footer />
 
@@ -35,7 +35,7 @@ const App = () => {
         </Route>
 
 
-      </Switch>
+      </Switch> */}
     </div>
   )
 }
