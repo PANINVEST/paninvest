@@ -89,28 +89,6 @@ const Signup = () => {
         className={"border-2"}
       />
       <br />
-      <label htmlFor="ProblemStatement"></label>
-      <br />
-      <textarea
-        name=""
-        id=""
-        cols="30"
-        rows="2"
-        className={"border-2 resize-y"}
-        placeholder={"Problem Statement"}
-      ></textarea>
-      <br />
-      <label htmlFor="Solution"></label>
-      <br />
-      <textarea
-        name=""
-        id=""
-        cols="30"
-        rows="2"
-        className={"border-2"}
-        placeholder={"Solution"}
-      ></textarea>
-      <br />
       <label htmlFor="MarketSize"></label>
       <br />
       <input
@@ -160,28 +138,6 @@ const Signup = () => {
         placeholder="Size of Team"
         className={"border-2"}
       />
-      <br />
-      <label htmlFor="USP"></label>
-      <br />
-      <textarea
-        name=""
-        id=""
-        cols="30"
-        rows="2"
-        className={"border-2"}
-        placeholder={"Unique Selling Proposition"}
-      ></textarea>
-      <br />
-      <label htmlFor="Revenue Model"></label>
-      <br />
-      <textarea
-        name=""
-        id=""
-        cols="30"
-        rows="2"
-        className={"border-2"}
-        placeholder={"Revenue Model"}
-      ></textarea>
       <br />
       <label htmlFor="Competition"></label>
       <br />
